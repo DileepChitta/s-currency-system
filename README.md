@@ -1,5 +1,12 @@
 # EC Platform — Next.js Full Stack
-### CHIAC ASI · Superintelligence Edge Project · Group 8
+### CHIAC ASI · Superintelligence Edge currency system Project · Group 9
+Team memebrs
+1). DILEEP
+2). MOHAMED JUNAID
+3). SANKALP KULKARNI
+4). LIKITH P REDDY
+5). T N ANKITH
+6). RAKSHITHA N
 
 ## Quick Start (2 commands)
 
