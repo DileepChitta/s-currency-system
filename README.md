@@ -1,5 +1,5 @@
 # EC Platform — Next.js Full Stack
-### CHIAC ASI · Superintelligence Edge currency system Project · Group 9
+### CHIAC ASI · Superintelligence Edge currency system Project · Chiac ASI 9
 Team memebrs
 1). DILEEP
 2). MOHAMED JUNAID
